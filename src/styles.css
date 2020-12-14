@@ -1,0 +1,28 @@
+.App {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+.submitButton {
+  margin: 20px;
+}
+
+.containerWrap {
+  max-width: 600px;
+  margin-top: 10px;
+  padding: 18px;
+  border: 1px solid #a3a4ac;
+  margin: 0 auto;
+}
+
+.Forecast {
+  list-style: none;
+  text-transform: uppercase;
+}
